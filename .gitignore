@@ -8,7 +8,9 @@
 
 # testing
 /coverage
-
+node_modules/
+env
+.env
 # production
 
 # misc
